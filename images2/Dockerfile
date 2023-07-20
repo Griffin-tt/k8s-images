@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/k8s-dns-kube-dns:1.15.10
+FROM registry.k8s.io/conformance:v1.20.7
 MAINTAINER Q
