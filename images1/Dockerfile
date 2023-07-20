@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/k8s-dns-kube-dns:1.15.10
+FROM k8s.gcr.io/e2e-test-images/agnhost:2.21
 MAINTAINER Q
